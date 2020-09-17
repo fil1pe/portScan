@@ -1,5 +1,5 @@
 #include <string.h>
-#include "tcpInfo.h"
+#include "udpInfo.h"
 #define OID_CODE ".1.3.6.1.2.1.7.7"
 
 // Parses SNMP message to obtain remote address and port
